@@ -1,5 +1,5 @@
 # digilm
-[logo](https://github.com/hondaya14/digilm-docs/icon/digilm_logo.png)
+<img src="https://github.com/hondaya14/digilm-docs/blob/master/icon/digilm_icon.png" width="250px">
 
 ## Install 
 [appStore](https://apps.apple.com/app/digilm/id1538150738)
