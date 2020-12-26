@@ -10,4 +10,4 @@
 hondaya : <nqvno14@gmail.com>  
 
 mtng : <mtng_19@gmail.com>  
-    github aacount : [mtng19](https://github.com/mtng19)
+    github　: [mtng19](https://github.com/mtng19)
