@@ -1,5 +1,8 @@
 # Release Note
 
+- **1.1.1** 2020/12/27
+  - Bug fixed.
+    - Fixed a bug that various settings are not remembered.
 - **1.1.0** 2020/12/21
   - Improvement double exposure and half processing.
   - Add application settings.
