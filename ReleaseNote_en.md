@@ -4,6 +4,5 @@
   - Improvement double exposure and half processing.
   - Add application settings.
   - Show each film samples. 
-<br>
 - **1.0.0** 2020/11/03
   - 「digilm」 Release
