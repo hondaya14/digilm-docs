@@ -1,8 +1,10 @@
 # Release Note
-
-- **1.1.1** 2020/12/27
-  - Bug fixed.
-    - Fixed a bug that various settings are not remembered.
+- **1.2.0** 2021/01/09
+  - You can zoom image by pinching on editing screen.
+  - Speed up processing.
+  - Reconstructed stamps.
+- **1.1.1** 2020/12/30
+  - Fixed bug that each settings does not memory.
 - **1.1.0** 2020/12/21
   - Improvement double exposure and half processing.
   - Add application settings.
