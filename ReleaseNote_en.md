@@ -1,5 +1,5 @@
 # Release Note
-- **1.3.0**
+- **1.3.0** 2021/01/23
   - Release new lens
   - Changed to be able to make detailed settings on the edit screen
   - Implement light leak
