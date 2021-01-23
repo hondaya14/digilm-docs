@@ -1,4 +1,8 @@
 # Release Note
+- **1.3.0**
+  - Release new lens
+  - Changed to be able to make detailed settings on the edit screen
+  - Implement light leak
 - **1.2.0** 2021/01/09
   - You can zoom image by pinching on editing screen.
   - Speed up processing.
