@@ -1,4 +1,4 @@
-<img src="https://github.com/hondaya14/digilm-docs/blob/master/icon/digilm_logo.png" width="350px">
+<img src="https://github.com/hondaya14/digilm-docs/blob/master/icon/digilm_logo.png" width="250px">
 <br>
 
 ## Install
