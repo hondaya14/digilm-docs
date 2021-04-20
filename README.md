@@ -9,5 +9,4 @@
 ## Developer
 hondaya : <nqvno14@gmail.com>  
 
-mtng : <mtng_19@gmail.com>  
-    github : [mtng19](https://github.com/mtng19)
+mtng :  [mtng19](https://github.com/mtng19)
